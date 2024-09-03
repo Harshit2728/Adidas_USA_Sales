@@ -1,4 +1,4 @@
-#Overview
+# Overview
 The Adidas USA Sales project aims to analyze sales data to identify key trends, insights, and opportunities for Adidas in the U.S. market. The analysis leverages Python and various data science techniques to clean, visualize, and model the sales data, providing actionable insights for decision-makers.
 
 This project is valuable for stakeholders seeking to understand:
@@ -10,17 +10,17 @@ Factors influencing sales performance
 Predictive models to forecast future sales
 By utilizing this analysis, Adidas can optimize inventory management, improve marketing strategies, and enhance overall business performance in the USA market.
 
-#Analysis
+# Analysis
 
 The analysis of the Adidas USA Sales data is conducted through several key steps:
 
-##Data Cleaning and Preprocessing:
+## Data Cleaning and Preprocessing:
 
 Handled missing values and inconsistencies in the dataset.
 Standardized data formats for dates, sales figures, and product categories.
 Removed duplicates and irrelevant data points to ensure the dataset's quality and reliability.
 
-##Exploratory Data Analysis (EDA):
+## Exploratory Data Analysis (EDA):
 
 Descriptive Statistics: Provided summaries of key metrics such as average sales, total revenue, and product counts.
 Sales Trends: Analyzed sales over time, identifying peak seasons, monthly and yearly trends.
@@ -47,7 +47,7 @@ Best Performers: Certain products consistently outperform others, with top categ
 Regional Differences: Sales vary significantly across different regions, indicating the need for region-specific strategies.
 Growth Opportunities: Identified potential areas for growth, such as expanding high-performing product lines and improving marketing efforts in underperforming regions.
 
-#Conclusion:
+# Conclusion:
 
 The Adidas USA Sales project provides a comprehensive analysis of sales data, offering valuable insights and actionable recommendations. By understanding sales trends, customer preferences, and market dynamics, Adidas can better strategize to enhance its market presence and profitability in the USA.
 
